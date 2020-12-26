@@ -1,2 +1,1 @@
-# Tindog
-as a project in u demy course
+TinDog Starting Files
